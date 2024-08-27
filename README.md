@@ -2,6 +2,15 @@
 
 I'm a **Full Stack Web Developer** with almost 5 years of experience in building and optimizing scalable web applications. I specialize in **Next.js, React, and Node.js** with a strong focus on enhancing **user experience** and **performance optimization**. I thrive in collaborative environments, whether working with global teams remotely or in-office.
 
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=blue)
+![Next](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js&color=a0a0a0)
+![Tailwind](https://img.shields.io/badge/-tailwind-black?style=for-the-badge&logo=tailwindcss&color=36d2fd)
+![Node](https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=node.js&color=0ac662)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logoColor=white&logo=prisma&color=303030)
+![Mongoose](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=127237)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=e3930f)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logoColor=white&logo=graphql&color=f82ab0)
+
 ---
 
 ## 🌍 My Latest Projects
@@ -18,19 +27,6 @@ I'm a **Full Stack Web Developer** with almost 5 years of experience in building
 
 ---
 
-## 🚀 What I Do
-
-I bring ideas to life by crafting intuitive, high-performance web applications. My work is driven by a passion for creating user-centric digital experiences that are both scalable and efficient.
-
-- **Frontend Development:** Next.js, React, Redux, Tailwind CSS, Storybook
-- **Backend Development:** Node.js, Express.js, Nest.js, TypeORM, Prisma, REST, GraphQL
-- **Database Management:** MongoDB, MySQL
-- **DevOps & Tools:** GitHub, GitLab, Vercel, Netlify, AWS, Docker
-
-I'm a team player and I also have a solid foundation in **Agile methodologies** (SCRUM) and a knack for problem-solving, creativity, and adaptability.
-
----
-
 ## 💼 Companies I've Worked With
 
 I've had the privilege to collaborate directly or indirectly with some amazing companies over the years. Here are a few of them:
@@ -43,6 +39,19 @@ I've had the privilege to collaborate directly or indirectly with some amazing c
 - **I-Way**: [paris.i-quiz.fr](https://paris.i-quiz.fr/)
 - **R3set Life**: [reset.in](https://www.reset.in/)
 - **Keeze**: [keeze.co](https://keeze.co/)
+
+---
+
+## 🚀 What I Do
+
+I bring ideas to life by crafting intuitive, high-performance web applications. My work is driven by a passion for creating user-centric digital experiences that are both scalable and efficient.
+
+- **Frontend Development:** Next.js, React, Redux, Tailwind CSS, Storybook
+- **Backend Development:** Node.js, Express.js, Nest.js, TypeORM, Prisma, REST, GraphQL
+- **Database Management:** MongoDB, MySQL
+- **DevOps & Tools:** GitHub, GitLab, Vercel, Netlify, AWS, Docker
+
+I'm a team player and I also have a solid foundation in **Agile methodologies** (SCRUM) and a knack for problem-solving, creativity, and adaptability.
 
 ---
 
