@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Hamza Yousfi
 
-I'm a **Full Stack Web Developer** with almost 5 years of experience in building and optimizing scalable web applications. I specialize in **Next.js, React, and Node.js** with a strong focus on enhancing **user experience** and **performance optimization**. I thrive in collaborative environments, whether working with global teams remotely or in-office.
+Senior Full-Stack Engineer with 6 years of experience building high-performance web applications for enterprise clients, including Brex, HSE, Privy, and others. Specializing in React, Next.js, TypeScript, and Node.js, with proven results in Core Web Vitals optimization. Deliver features 5× faster through AI-assisted development (Cursor, Claude).
+Collaborate effectively with global teams across French and English-speaking environments.
+
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=blue)
 ![Next](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js&color=a0a0a0)
@@ -31,14 +33,19 @@ I'm a **Full Stack Web Developer** with almost 5 years of experience in building
 
 I've had the privilege to collaborate directly or indirectly with some amazing companies over the years. Here are a few of them:
 
-- **Bejamas**: [bejamas.io](https://bejamas.io/)
-- **HSE (Home Shopping Europe)**: [hse.de](https://www.hse.de/)
+- **Brex**: [brex.com](https://www.brex.com/) ⭐
+- **Bejamas**: [bejamas.io](https://bejamas.io/) ⭐
+- **Enroute**: [enroute.run](https://enroute.run/) ⭐
+- **Privy**: [privy.com](https://www.privy.com/)
+- **AuditBoard**: [auditboard.com](https://auditboard.com/)
+- **Edis**: [edisglobal.com](https://www.edisglobal.com/)
+- **HSE (Home Shopping Europe)**: [hse.de](https://www.hse.de/) ⭐
 - **Veezu**: [veezu.co.uk](https://www.veezu.co.uk/)
-- **Camino Financial**: [caminofinancial.com](https://www.caminofinancial.com/)
+- **Camino Financial**: [caminofinancial.com](https://www.caminofinancial.com/) ⭐
 - **Climate Central**: [climatecentral.org](https://www.climatecentral.org/)
-- **I-Way**: [paris.i-quiz.fr](https://paris.i-quiz.fr/)
+- **I-Way**: [paris.i-quiz.fr](https://paris.i-quiz.fr/) ⭐
 - **R3set Life**: [reset.in](https://www.reset.in/)
-- **Keeze**: [keeze.co](https://keeze.co/)
+- **Keeze**: [keeze.co](https://keeze.co/) ⭐
 
 ---
 
@@ -46,24 +53,29 @@ I've had the privilege to collaborate directly or indirectly with some amazing c
 
 I bring ideas to life by crafting intuitive, high-performance web applications. My work is driven by a passion for creating user-centric digital experiences that are both scalable and efficient.
 
-- **Frontend Development:** Next.js, React, Redux, Tailwind CSS, Storybook
-- **Backend Development:** Node.js, Express.js, Nest.js, TypeORM, Prisma, REST, GraphQL
-- **Database Management:** MongoDB, MySQL
-- **DevOps & Tools:** GitHub, GitLab, Vercel, Netlify, AWS, Docker
+- **Frontend Development:** JavaScript, TypeScript, React, Next.js (App Router, RSC), Astro,
+Tailwind CSS, shadcn/ui, Storybook.
+- **Backend Development:** Node.js, Express.js, Nest.js, REST APIs, GraphQL, Prisma.
+- **Databases & CMS:** Sanity, Contentful, Shopify Storefront API, MongoDB, MySQL,
+PostgreSQL, Convex.
+- **Infrastructure:** Vercel, Cloudflare, AWS, Docker, GitHub Actions, CI/CD.
+- **Testing:** Jest, Cypress, React Testing Library.
+- **AI-Assisted Development:** Cursor, Claude, Gemini, MCP.
+- **Languages:** English, French, Spanish, Russian, Arabic.
 
 I'm a team player and I also have a solid foundation in **Agile methodologies** (SCRUM) and a knack for problem-solving, creativity, and adaptability.
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Currently Exploring
 
-I'm currently enhancing my expertise in **user behavior analytics** and **advanced SEO strategies** to optimize website performance and maximize conversion rates. By focusing on the nuances of user interaction and fine-tuning SEO techniques, I'm working to improve the user experience and drive higher engagement across various platforms, including blogs, e-commerce stores, and SaaS applications.
+Building AI-powered full-stack applications with Next.js (RSC + Cache Components), NestJS microservices, and OpenAI/Anthropic SDKs — focusing on RAG pipelines, token streaming, and embedding AI features into production workflows. Also deep into AI-assisted development with Cursor, Claude, and MCP to ship faster without sacrificing code quality.
 
 ---
 
 ## 💬 Let's Connect
 
-I'm always open to discussing new projects, collaborating on open-source, or just having a chat about web development.
+I'm always open to discussing new projects, collaborating on open-source, or just having a chat about web technologies.
 
 - **LinkedIn:** [yousfihamza](https://www.linkedin.com/in/yousfihamza)
 - **Portfolio:** [hamza.yousfi.dev](https://hamza.yousfi.dev)
